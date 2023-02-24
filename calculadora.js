@@ -12,4 +12,4 @@ function multiplicar(a, b) {
 
 function dividir(a, b) {
     console.log(a / b);
-};
+}; 
